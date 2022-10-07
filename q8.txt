@@ -1,0 +1,3 @@
+Resposta:
+
+O primeiro código imprime os valores de todas posições do vetor, e o segundo código imprime os endereços referentes a vet+i.

@@ -1,0 +1,2 @@
+Resposta:
+*(pulo + 2);
