@@ -1,0 +1,4 @@
+Com:
+int i=5, *p; p = &i; printf("%x %d %d %d %d", p,*p+2,&p,3p,**&p+4);
+
+No endereço 4094 o que vai ser impresso é: 4094 7 5 15 9
