@@ -1,0 +1,3 @@
+Como i e j são variáveis inteiras e p e q ponteiros para int, são ilegais tais itens:
+
+p = i; i = (*&)j; q = *p;
